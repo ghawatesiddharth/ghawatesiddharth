@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pixal-Crafter&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
   <img src="Assets/2024-06.gif" height="60" width="60" />
   <img src="Assets/2024-50.gif" height="60" width="60" />
 </p>
@@ -13,35 +17,29 @@
   <img src="https://leetcard.jacoblin.cool/Pixal_Crafter?theme=dark&ext=contest" alt="LeetCode Stats Card" width="800" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Contest Rating-1614-blue?style=for-the-badge" alt="Contest Rating Badge" />
-  <img src="https://img.shields.io/badge/Contests Attended-4-purple?style=for-the-badge" alt="Contests Attended Badge" /><br/>
-  <img src="https://img.shields.io/badge/Java-Solved-116-orange?style=flat" alt="Java Solved Count" />
-  <img src="https://img.shields.io/badge/MySQL-Solved-28-lightgrey?style=flat" alt="MySQL Solved Count" />
-  <img src="https://img.shields.io/badge/Python 3-Solved-4-blue?style=flat" alt="Python Solved Count" />
-</p>
 
 ---
 
-###  About Me
+<h2 align="center">💻 About Me</h2>
 <p align="center">
   Passionate about problem solving, algorithms, and full-stack web development.
 </p>
 
 ---
 
-###  Skills & Strongest Topics
+<h2 align="center">🚀 Skills</h2>
 <p align="center">
-  <strong>Top Topics:</strong>  
-  Array (81), String (36), Hash Table (34), Database (28), Math (24), Dynamic Programming (20)<br/>
-  <strong>Other Areas:</strong> Sorting, Trie, Shortest Path
-</p>
-
-###  Technologies & Tools
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40" />  
-  <!-- Add or adjust tech icons as needed -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="50" height="50"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" width="50" height="50"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="50" height="50"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="50" height="50"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50" height="50"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="50" height="50"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="50" height="50"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="50" height="50"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="50" height="50"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="50" height="50"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="50" height="50"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="50" height="50"/>
 </p>
