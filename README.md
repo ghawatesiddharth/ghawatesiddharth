@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://leetcode.com/u/Pixal_Crafter/">
-    <b>📌 Find Me on LeetCode</b>
-  </a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pixal-Crafter&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
